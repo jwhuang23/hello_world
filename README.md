@@ -1,3 +1,3 @@
 # hello_world
 First programme
-fun stuff
+this is the moon
